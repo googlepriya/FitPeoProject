@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T20:08:48 IST" name="Default suite" finished-at="2024-08-03T20:08:51 IST" duration-ms="3183">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T20:08:48 IST" name="Default test" finished-at="2024-08-03T20:08:51 IST" duration-ms="3183">
+      <class name="com.test.FitPeoAutomation">
+        <test-method is-config="true" signature="lauchBrowser()[pri:0, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:45 IST" name="lauchBrowser" finished-at="2024-08-03T20:08:48 IST" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method signature="navigateToRevenueCalculatorPage()[pri:1, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:48 IST" name="navigateToRevenueCalculatorPage" finished-at="2024-08-03T20:08:48 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRevenueCalculatorPage -->
+        <test-method signature="scrollDownSlider()[pri:2, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:48 IST" name="scrollDownSlider" finished-at="2024-08-03T20:08:50 IST" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownSlider -->
+        <test-method signature="adjustSlider()[pri:3, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:50 IST" name="adjustSlider" finished-at="2024-08-03T20:08:50 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustSlider -->
+        <test-method signature="updateTextField()[pri:4, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:50 IST" name="updateTextField" finished-at="2024-08-03T20:08:51 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTextField -->
+        <test-method signature="validateSliderValue()[pri:5, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:51 IST" name="validateSliderValue" finished-at="2024-08-03T20:08:51 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSliderValue -->
+        <test-method signature="selectCPTCodes()[pri:6, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:51 IST" name="selectCPTCodes" finished-at="2024-08-03T20:08:51 IST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCPTCodes -->
+        <test-method signature="validateTotalRecurringReimbursement()[pri:7, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:51 IST" name="validateTotalRecurringReimbursement" finished-at="2024-08-03T20:08:51 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTotalRecurringReimbursement -->
+        <test-method signature="verifyDisplayValue()[pri:8, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:51 IST" name="verifyDisplayValue" finished-at="2024-08-03T20:08:51 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDisplayValue -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.FitPeoAutomation@f09733f]" started-at="2024-08-03T20:08:51 IST" name="tearDown" finished-at="2024-08-03T20:08:52 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.FitPeoAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
